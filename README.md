@@ -23,4 +23,7 @@ _this is also italic_
     = item3
     = item4
 # Links:
-[Google](www.cse)
+[Google](http://www.cse)
+
+#images
+![name](https://tse1.mm.bing.net/th?id=OIP.CGdYTKvYr_wvrsWbVVE2HgHaEK&pid=Api&P=0&w=312&h=176)
